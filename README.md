@@ -249,5 +249,4 @@ Skill 和原文、不知道检查重点的独立 agent 完成；之后又对成�
 
 本项目以 [MIT 许可证](LICENSE) 发布，可自由使用、修改和再分发，仅需保留版权与许可声明。
 
-版权行当前为 `Copyright (c) 2026 make-knowledge-cards contributors`；如需署真实姓名或组织名，
-直接修改 [LICENSE](LICENSE) 第 3 行即可。
+版权行：`Copyright (c) 2026 yuanjun`。
