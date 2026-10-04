@@ -1,0 +1,5 @@
+# 全部按文本处理，仓库内统一使用 LF 换行
+* text=auto eol=lf
+
+# 该测试夹具刻意使用 GBK 编码，任何换行或编码转换都会破坏它的用途
+test/article-log-archive-gbk.txt -text
