@@ -1,7 +1,7 @@
 # 临时与缓存
 __pycache__/
 *.py[cod]
-.tmp-validate/
+.tmp-*/
 
 # 编辑器与系统
 .vscode/
